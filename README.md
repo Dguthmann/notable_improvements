@@ -10,7 +10,7 @@ livesite: https://protected-wildwood-21302.herokuapp.com/
 server.js  
 package.json  
 package-lock.json  
-screenshot.png
+screenshot.png  
 README.md  
 LICENSE
 ### db
